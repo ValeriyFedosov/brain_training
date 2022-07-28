@@ -3,4 +3,10 @@
     <string name="save">Сохранить</string>
     <string name="get">Получить значение</string>
     <string name="empty">Пусто</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
+    <string name="start">Start</string>
+    <string name="brain_training">Brain Training</string>
+    <string name="my_res">Ваш результат:</string>
+    <string name="back">Back</string>
 </resources>
